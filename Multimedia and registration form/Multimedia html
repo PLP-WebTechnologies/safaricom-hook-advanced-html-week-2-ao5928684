@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multimedia Webpage</title>
+</head>
+<body>
+  <h1>Multimedia Webpage</h1>
+  <audio controls>
+    <source src="fally_ipupa_a_flye_clip_officiel_mp3_22835.mp3" type="audio/mp3">
+    <source src="audio_file.ogg" type="audio/ogg">
+  </audio>
+  <br>
+  <video controls poster="poster_image.jpg">
+    <source src="Coco_480P.mp4" type="video/mp4">
+    <source src="video_file.webm" type="video/webm">
+  </video>
+  <br>
+  
+</body>
+</html>
